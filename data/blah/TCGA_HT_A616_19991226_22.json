@@ -1,0 +1,59 @@
+{
+  "version": "5.2.1",
+  "flags": {},
+  "shapes": [
+    {
+      "label": "Tumor",
+      "points": [
+        [
+          182.1,
+          101.0
+        ],
+        [
+          182.0,
+          106.7
+        ],
+        [
+          183.7,
+          107.8
+        ],
+        [
+          186.4,
+          106.8
+        ],
+        [
+          188.4,
+          104.8
+        ],
+        [
+          188.1,
+          103.3
+        ],
+        [
+          187.2,
+          103.2
+        ],
+        [
+          186.9,
+          98.7
+        ],
+        [
+          184.6,
+          99.0
+        ],
+        [
+          184.5,
+          101.2
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "polygon",
+      "flags": {}
+    }
+  ],
+  "imagePath": "TCGA_HT_A616_19991226_22_mask.tif",
+  "imageData": "iVBORw0KGgoAAAANSUhEUgAAAQAAAAEACAAAAAB5Gfe6AAAAh0lEQVR4nO3VgQmAQAwDwFfcf+W6wxusxbsBSgiBrgUAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACfdnQH2FWh7GfiyGRXd4A9Fbv0+wVMLiAyg8kFRCigO8ADY194QuX+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPCmG/+7BQ+kiIzzAAAAAElFTkSuQmCC",
+  "imageHeight": 256,
+  "imageWidth": 256
+}

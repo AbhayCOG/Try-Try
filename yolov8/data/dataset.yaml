@@ -1,0 +1,4 @@
+train: C:\Datasets\yolov8\data\train
+val: C:\Datasets\yolov8\data\test\
+nc: 1
+names: ["Tumor"]

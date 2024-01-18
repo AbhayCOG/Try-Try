@@ -1,0 +1,75 @@
+{
+  "version": "5.2.1",
+  "flags": {},
+  "shapes": [
+    {
+      "label": "Tumor",
+      "points": [
+        [
+          98.08196721311477,
+          150.95081967213113
+        ],
+        [
+          108.74233128834355,
+          150.920245398773
+        ],
+        [
+          111.34969325153374,
+          152.76073619631902
+        ],
+        [
+          119.78527607361963,
+          153.68098159509202
+        ],
+        [
+          120.55214723926379,
+          155.52147239263803
+        ],
+        [
+          111.34969325153374,
+          164.41717791411043
+        ],
+        [
+          110.42944785276073,
+          166.25766871165644
+        ],
+        [
+          109.81595092024538,
+          174.84662576687114
+        ],
+        [
+          114.11042944785275,
+          183.5889570552147
+        ],
+        [
+          110.27607361963189,
+          181.2883435582822
+        ],
+        [
+          101.22699386503066,
+          179.29447852760734
+        ],
+        [
+          95.24539877300613,
+          166.87116564417175
+        ],
+        [
+          90.6441717791411,
+          161.96319018404907
+        ],
+        [
+          94.78527607361963,
+          156.13496932515335
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "polygon",
+      "flags": {}
+    }
+  ],
+  "imagePath": "TCGA_DU_5854_19951104_22_mask.tif",
+  "imageData": "iVBORw0KGgoAAAANSUhEUgAAAQAAAAEACAAAAAB5Gfe6AAAA/ElEQVR4nO3Yuw4CMRADQI7//+fQ8rgrkPDGSDMdNJu1nEhwuwEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAADAmCM/Yo1O+1b+SOvlU10E8QOti+9bkrjvPsBu6QCuClBjVwNabkA6gPYXIB1A//7ZAP5g/y1vQNP+0QAuClC1/4YGdO0fDeB01bL9sw04WbZt//AVqFv30/Ab0JdIOIC+hd+lG1CfgJ/D6QHtFdCA+ITyCmjA7gPsNhDA8x3o+4tQAwZmVD+D0w2ouwMjARzFHZg82hqfWGjV3YFpEgAAAAAAAAAAAAAAAAAAAAAAAPiRB/GID0NULasyAAAAAElFTkSuQmCC",
+  "imageHeight": 256,
+  "imageWidth": 256
+}

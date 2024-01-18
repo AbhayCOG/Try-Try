@@ -1,0 +1,91 @@
+{
+  "version": "5.2.1",
+  "flags": {},
+  "shapes": [
+    {
+      "label": "Tumor",
+      "points": [
+        [
+          162.81337047353762,
+          131.19777158774374
+        ],
+        [
+          165.18105849582173,
+          136.35097493036213
+        ],
+        [
+          169.49860724233983,
+          142.75766016713092
+        ],
+        [
+          168.941504178273,
+          150.83565459610028
+        ],
+        [
+          166.8523676880223,
+          156.26740947075209
+        ],
+        [
+          163.92757660167132,
+          162.11699164345404
+        ],
+        [
+          162.95264623955433,
+          167.27019498607243
+        ],
+        [
+          160.86350974930363,
+          172.98050139275767
+        ],
+        [
+          159.61002785515322,
+          178.27298050139277
+        ],
+        [
+          165.7381615598886,
+          174.6518105849582
+        ],
+        [
+          169.35933147632312,
+          170.47353760445682
+        ],
+        [
+          177.7158774373259,
+          163.6490250696379
+        ],
+        [
+          177.5766016713092,
+          148.32869080779946
+        ],
+        [
+          182.17270194986074,
+          136.76880222841226
+        ],
+        [
+          181.47632311977716,
+          131.19777158774374
+        ],
+        [
+          178.96935933147634,
+          127.29805013927577
+        ],
+        [
+          174.5125348189415,
+          127.57660167130919
+        ],
+        [
+          169.63788300835654,
+          129.10863509749305
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "polygon",
+      "flags": {}
+    }
+  ],
+  "imagePath": "TCGA_DU_5852_19950709_16_mask.tif",
+  "imageData": "iVBORw0KGgoAAAANSUhEUgAAAQAAAAEACAAAAAB5Gfe6AAABWklEQVR4nO3a0UrDUBBF0Sj+/y/HBws2KtiWOdwcstaTQinTTXLFTrYNAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAJZ7Wz3Ak/ZteOaeAPv3j5NDlwTYj78OTv0x91Y5+/8vedl78L2n/P78g0UaAkQ1BIieUw0BogRYPcAjkvdARYBkgY4APw0GKQmQuwRKAuS0BIhdAi0BDgUma9QESBFg9QAvGD0PGgOMEmD1AM+b/YtYGGBWTYDU94I1AVIEWD3Aai0BYquBlgAxAqwe4DG55VhHgOBysCNAUEWAq2+HoxoCJC+AigBHw98P9wUYVhdgekHQFmB8QVIQ4P4MnF8QFQS4E1iQVTwmdxPZD/YECK1Hz38L3I6A1Hr4/AG+XH09fuEnRKL/CGwlh2DyMbmCACVP9Ifs6Vvg7K7++QEAAAAAAAAAAAAAAAAAAAAAAAD+9gnoRhJzvmkG/gAAAABJRU5ErkJggg==",
+  "imageHeight": 256,
+  "imageWidth": 256
+}

@@ -1,0 +1,83 @@
+{
+  "version": "5.2.1",
+  "flags": {},
+  "shapes": [
+    {
+      "label": "Tumor",
+      "points": [
+        [
+          96.93593314763231,
+          105.57103064066852
+        ],
+        [
+          100.0,
+          109.19220055710306
+        ],
+        [
+          100.41782729805014,
+          112.25626740947075
+        ],
+        [
+          101.53203342618384,
+          114.34540389972145
+        ],
+        [
+          105.2924791086351,
+          115.73816155988858
+        ],
+        [
+          105.15320334261838,
+          120.61281337047355
+        ],
+        [
+          103.34261838440112,
+          124.09470752089138
+        ],
+        [
+          99.86072423398329,
+          129.52646239554318
+        ],
+        [
+          96.23955431754875,
+          129.8050139275766
+        ],
+        [
+          95.6824512534819,
+          128.27298050139277
+        ],
+        [
+          91.22562674094708,
+          124.65181058495823
+        ],
+        [
+          91.36490250696379,
+          119.49860724233984
+        ],
+        [
+          93.17548746518106,
+          117.54874651810586
+        ],
+        [
+          94.5682451253482,
+          113.09192200557104
+        ],
+        [
+          92.75766016713092,
+          111.97771587743733
+        ],
+        [
+          93.17548746518106,
+          109.33147632311979
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "polygon",
+      "flags": {}
+    }
+  ],
+  "imagePath": "TCGA_DU_6399_19830416_31_mask.tif",
+  "imageData": "iVBORw0KGgoAAAANSUhEUgAAAQAAAAEACAAAAAB5Gfe6AAAA1klEQVR4nO3XMQrDMBAEQCv//7NSBWwIpMleNnimEK5k3+ok4eMAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAOCm9q8/4INHeP7dnkA4gH2090A2gH0aS6W3QD0BTLykeQ9kA1jR2b9iZgvs3h7IrtG57tJumDsES5vALZCcvHTRL5IB/EP9tsBcALe/BUqNBVDaANEAWmu+iHbAevvYZehnqLb+9BnQW/hL+hBcp7HSyC1QXD8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAFZ4rbQ4tdV0coQAAAABJRU5ErkJggg==",
+  "imageHeight": 256,
+  "imageWidth": 256
+}

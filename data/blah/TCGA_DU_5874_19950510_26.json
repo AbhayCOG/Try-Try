@@ -1,0 +1,139 @@
+{
+  "version": "5.2.1",
+  "flags": {},
+  "shapes": [
+    {
+      "label": "Tumor",
+      "points": [
+        [
+          127.0,
+          77.7
+        ],
+        [
+          126.8,
+          91.1
+        ],
+        [
+          125.4,
+          91.2
+        ],
+        [
+          125.0,
+          98.3
+        ],
+        [
+          127.2,
+          100.4
+        ],
+        [
+          127.1,
+          102.0
+        ],
+        [
+          129.9,
+          103.4
+        ],
+        [
+          134.5,
+          106.2
+        ],
+        [
+          140.6,
+          109.1
+        ],
+        [
+          143.8,
+          107.9
+        ],
+        [
+          147.9,
+          102.5
+        ],
+        [
+          150.5,
+          99.2
+        ],
+        [
+          152.0,
+          99.3
+        ],
+        [
+          152.2,
+          97.4
+        ],
+        [
+          151.1,
+          97.1
+        ],
+        [
+          150.8,
+          90.4
+        ],
+        [
+          149.8,
+          86.9
+        ],
+        [
+          148.7,
+          83.4
+        ],
+        [
+          146.5,
+          81.2
+        ],
+        [
+          144.3,
+          78.0
+        ],
+        [
+          142.6,
+          77.7
+        ],
+        [
+          141.6,
+          74.5
+        ],
+        [
+          138.5,
+          74.0
+        ],
+        [
+          136.5,
+          72.9
+        ],
+        [
+          134.4,
+          73.1
+        ],
+        [
+          132.7,
+          75.5
+        ],
+        [
+          131.7,
+          78.1
+        ],
+        [
+          130.4,
+          77.9
+        ],
+        [
+          129.8,
+          76.4
+        ],
+        [
+          127.9,
+          77.0
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "polygon",
+      "flags": {}
+    }
+  ],
+  "imagePath": "TCGA_DU_5874_19950510_26_mask.tif",
+  "imageData": "iVBORw0KGgoAAAANSUhEUgAAAQAAAAEACAAAAAB5Gfe6AAABF0lEQVR4nO3aMW7DMBAEwHOQ/3+ZKQIjcqy0uxdgplKn5eoowYRnAAAAAAAAAAAAAAAAAAAAAAAA/qlHO8C3M60oOwo4z4t8nI/4HZepF3DOZQAuVyntAk5j0Vftd8D76sOJ2hPwLjwQ+woIN7CwgKyNBURHYGMB0QZWFpCkgHaAW8E9sLOAIAW0A7QtLSD3EviM3elO94fgzKydgBwFtAO0KaAdoG1rAbHvw9YCYroF/HkAmjsZ3XcqPBNNZQuU73/7rJNj2d4Cc7MLopnaEzDtZ7BgAubXEGQjLZiAeV1z+JHsmID5GYJ0oDUFTPN/MgAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAJDzBTlxFjyP1kexAAAAAElFTkSuQmCC",
+  "imageHeight": 256,
+  "imageWidth": 256
+}

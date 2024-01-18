@@ -1,0 +1,83 @@
+{
+  "version": "5.2.1",
+  "flags": {},
+  "shapes": [
+    {
+      "label": "Tumor",
+      "points": [
+        [
+          81.9617486338798,
+          149.03825136612022
+        ],
+        [
+          82.23497267759562,
+          162.15300546448088
+        ],
+        [
+          84.42076502732242,
+          166.79781420765028
+        ],
+        [
+          86.33333333333333,
+          174.72131147540983
+        ],
+        [
+          88.24590163934427,
+          185.92349726775956
+        ],
+        [
+          91.52459016393443,
+          186.7431693989071
+        ],
+        [
+          91.25136612021858,
+          168.43715846994536
+        ],
+        [
+          95.62295081967214,
+          164.33879781420765
+        ],
+        [
+          100.26775956284153,
+          160.78688524590163
+        ],
+        [
+          100.54098360655739,
+          157.78142076502732
+        ],
+        [
+          98.08196721311477,
+          157.78142076502732
+        ],
+        [
+          93.43715846994535,
+          161.33333333333334
+        ],
+        [
+          89.06557377049181,
+          158.05464480874318
+        ],
+        [
+          88.79234972677595,
+          152.59016393442622
+        ],
+        [
+          87.42622950819673,
+          150.95081967213113
+        ],
+        [
+          87.15300546448087,
+          140.56830601092895
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "polygon",
+      "flags": {}
+    }
+  ],
+  "imagePath": "TCGA_CS_6666_20011109_13_mask.tif",
+  "imageData": "iVBORw0KGgoAAAANSUhEUgAAAQAAAAEACAAAAAB5Gfe6AAABDElEQVR4nO3XMRICQQgEwD3L/395DUz0TAxuBKzuRCOEEbxyLQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA/saubuBrt0jVPSeBTACDRAIY8/WvTACT5ncCAri+5KgLsAECSBWecgg2oLqBagKobqCaAGKV9z6/aekerL3X0f9xmD6B7vOv4/qSHzMHPuM6gQ04z9t6/h88BXrPnw+g+fzRp8DqP35mA/pP/SJ7AgOiiAYwYP5MAMfbS2/+DFU3UE0Akaojrv/JBlQ3UE0A1Q1UCwUw51fQBlQ3UE0A1Q1USwUw5lfQBlQ3UC0WwJgbAAAAAAAAAAAAAAAAAAAAAACY7AE9SA9djM4NfAAAAABJRU5ErkJggg==",
+  "imageHeight": 256,
+  "imageWidth": 256
+}

@@ -1,0 +1,143 @@
+{
+  "version": "5.2.1",
+  "flags": {},
+  "shapes": [
+    {
+      "label": "Tumor",
+      "points": [
+        [
+          139.2,
+          70.0
+        ],
+        [
+          144.7,
+          69.9
+        ],
+        [
+          144.9,
+          71.3
+        ],
+        [
+          147.4,
+          73.0
+        ],
+        [
+          151.6,
+          75.1
+        ],
+        [
+          152.9,
+          76.6
+        ],
+        [
+          152.9,
+          83.0
+        ],
+        [
+          151.7,
+          84.2
+        ],
+        [
+          150.7,
+          86.2
+        ],
+        [
+          149.6,
+          86.7
+        ],
+        [
+          150.0,
+          92.6
+        ],
+        [
+          151.9,
+          94.7
+        ],
+        [
+          153.1,
+          96.0
+        ],
+        [
+          151.0,
+          98.5
+        ],
+        [
+          148.7,
+          98.9
+        ],
+        [
+          149.1,
+          100.9
+        ],
+        [
+          147.3,
+          100.9
+        ],
+        [
+          148.0,
+          102.3
+        ],
+        [
+          143.5,
+          102.8
+        ],
+        [
+          139.9,
+          99.3
+        ],
+        [
+          138.3,
+          99.1
+        ],
+        [
+          137.0,
+          97.4
+        ],
+        [
+          138.7,
+          96.7
+        ],
+        [
+          138.4,
+          93.3
+        ],
+        [
+          136.7,
+          91.2
+        ],
+        [
+          135.8,
+          88.9
+        ],
+        [
+          135.2,
+          86.7
+        ],
+        [
+          136.3,
+          85.6
+        ],
+        [
+          135.7,
+          83.3
+        ],
+        [
+          137.4,
+          82.7
+        ],
+        [
+          137.0,
+          72.7
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "polygon",
+      "flags": {}
+    }
+  ],
+  "imagePath": "TCGA_DU_5849_19950405_30_mask.tif",
+  "imageData": "iVBORw0KGgoAAAANSUhEUgAAAQAAAAEACAAAAAB5Gfe6AAAA+ElEQVR4nO3YsRKCQBBEwdP//2dMRIWAyJody+7MiPV5h3BrAQAAAAAAAAAAAAAAAAAAAADwu27TA3zY1lrxie7Zy13ZRq7aswLe3z86U9EKeNmSa6ExQDRBZ4DgDaE1QKxAbYAUAaYHmCbA9ADTBJgeYHf+20s9D9cEOIm9D7QGiGkJcNoBuRfClgBjBJge4GnsYKYlwBgBpgfYHffAP54IDd0FegIcORJzJBbSE2DoYbgnwO3iU+yyw16LIDhVzwpYM79GVYC9QDJEV4CuHQkAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA8F0PxE8QQELPd+kAAAAASUVORK5CYII=",
+  "imageHeight": 256,
+  "imageWidth": 256
+}

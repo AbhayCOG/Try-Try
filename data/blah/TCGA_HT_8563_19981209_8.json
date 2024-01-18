@@ -1,0 +1,184 @@
+{
+  "version": "5.2.1",
+  "flags": {},
+  "shapes": [
+    {
+      "label": "Tumor",
+      "points": [
+        [
+          83.1,
+          135.7
+        ],
+        [
+          84.4,
+          134.7
+        ],
+        [
+          83.3,
+          133.1
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "polygon",
+      "flags": {}
+    },
+    {
+      "label": "Tumor",
+      "points": [
+        [
+          79.3,
+          124.6
+        ],
+        [
+          81.5,
+          127.1
+        ],
+        [
+          83.4,
+          127.0
+        ],
+        [
+          83.3,
+          129.3
+        ],
+        [
+          84.5,
+          133.4
+        ],
+        [
+          86.2,
+          129.6
+        ],
+        [
+          85.2,
+          126.6
+        ],
+        [
+          85.2,
+          125.4
+        ],
+        [
+          88.1,
+          125.0
+        ],
+        [
+          88.8,
+          125.9
+        ],
+        [
+          91.3,
+          125.9
+        ],
+        [
+          92.5,
+          127.4
+        ],
+        [
+          92.7,
+          124.4
+        ],
+        [
+          91.9,
+          124.0
+        ],
+        [
+          91.9,
+          122.5
+        ],
+        [
+          95.2,
+          122.0
+        ],
+        [
+          97.3,
+          123.0
+        ],
+        [
+          99.0,
+          124.4
+        ],
+        [
+          100.5,
+          127.4
+        ],
+        [
+          102.2,
+          130.2
+        ],
+        [
+          103.0,
+          127.4
+        ],
+        [
+          103.5,
+          125.3
+        ],
+        [
+          105.2,
+          125.0
+        ],
+        [
+          106.4,
+          122.6
+        ],
+        [
+          109.2,
+          119.2
+        ],
+        [
+          107.1,
+          117.0
+        ],
+        [
+          106.9,
+          115.3
+        ],
+        [
+          103.9,
+          112.6
+        ],
+        [
+          95.4,
+          112.3
+        ],
+        [
+          93.8,
+          115.6
+        ],
+        [
+          92.6,
+          120.4
+        ],
+        [
+          89.5,
+          117.5
+        ],
+        [
+          87.8,
+          116.2
+        ],
+        [
+          84.1,
+          121.3
+        ],
+        [
+          83.8,
+          123.6
+        ],
+        [
+          80.8,
+          124.5
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "polygon",
+      "flags": {}
+    }
+  ],
+  "imagePath": "TCGA_HT_8563_19981209_8_mask.tif",
+  "imageData": "iVBORw0KGgoAAAANSUhEUgAAAQAAAAEACAAAAAB5Gfe6AAAA+0lEQVR4nO3WyQ6CMBQF0Nb4/79cF0YEKxvjI5dwzsKhi8K7HVsDAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA0vTi/sdRD/rVrbb78eVXluIAVkITqA1g7P6JURVAZrVfFAUw2pgjiAylJoCxfMzNYSr3gMR6JyXH817liXeB447BUPfKznvbzIbECVAyAzYroC9lR9b/97faLv++brtGAM9q+/v71ZZZfsEe0FfjfYZzsGJgxme3U0OQQ47B2OpbTQDJ9U6OuQidKpI/OMPm93L5qzAFzrQCAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAcjwAsm4dHsOMqwsAAAAASUVORK5CYII=",
+  "imageHeight": 256,
+  "imageWidth": 256
+}

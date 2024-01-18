@@ -1,0 +1,155 @@
+{
+  "version": "5.2.1",
+  "flags": {},
+  "shapes": [
+    {
+      "label": "Tumor",
+      "points": [
+        [
+          126.0,
+          73.8
+        ],
+        [
+          126.3,
+          81.6
+        ],
+        [
+          125.4,
+          82.1
+        ],
+        [
+          125.4,
+          85.7
+        ],
+        [
+          124.0,
+          86.4
+        ],
+        [
+          124.1,
+          87.6
+        ],
+        [
+          127.0,
+          89.9
+        ],
+        [
+          127.0,
+          99.1
+        ],
+        [
+          128.4,
+          100.1
+        ],
+        [
+          126.5,
+          102.4
+        ],
+        [
+          126.5,
+          105.5
+        ],
+        [
+          128.7,
+          107.9
+        ],
+        [
+          133.0,
+          108.8
+        ],
+        [
+          134.7,
+          109.7
+        ],
+        [
+          139.7,
+          111.1
+        ],
+        [
+          144.0,
+          106.7
+        ],
+        [
+          150.5,
+          102.1
+        ],
+        [
+          153.7,
+          96.4
+        ],
+        [
+          153.7,
+          88.2
+        ],
+        [
+          152.3,
+          84.7
+        ],
+        [
+          151.7,
+          82.4
+        ],
+        [
+          150.1,
+          81.0
+        ],
+        [
+          149.9,
+          79.9
+        ],
+        [
+          148.1,
+          78.1
+        ],
+        [
+          148.0,
+          76.9
+        ],
+        [
+          144.6,
+          73.1
+        ],
+        [
+          139.4,
+          73.0
+        ],
+        [
+          138.7,
+          74.0
+        ],
+        [
+          134.2,
+          73.9
+        ],
+        [
+          134.0,
+          73.2
+        ],
+        [
+          132.1,
+          73.2
+        ],
+        [
+          132.3,
+          81.1
+        ],
+        [
+          130.6,
+          81.1
+        ],
+        [
+          128.0,
+          75.7
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "polygon",
+      "flags": {}
+    }
+  ],
+  "imagePath": "TCGA_DU_5874_19950510_25_mask.tif",
+  "imageData": "iVBORw0KGgoAAAANSUhEUgAAAQAAAAEACAAAAAB5Gfe6AAABL0lEQVR4nO3YwW7CMBRE0deq///L6QJVgsap2DBj1HOWbHi52E7CDAAAAAAAAAAAAAAAAAAAAAAAwJv6aA8wM3PcxjhmJj5ROcBxd+U/siN9Rr/t7HjqoxdqB1iJFqgHyP7eZ/UAK8ko/QCrqw0W6Acob4INAnTvBN0A19cZK7DDCqgSoD3AldQeqAZoPwTNbLwCUqoB/nzvCy2P7grY4N+I8hboF3AGtAdoE6A9QJsA7QHa9g0QukPuGyBk2wCpR6R2gPqjYDvA1StPLEw5QP8fga/2AEvBjdHeAkvJg2HDFZA9F9un8OkQSA/U3gK/rzf+g7RXwDwugvw4GwSYuwb/NcDcGmwzDAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAwCt9A8l9GUaH7YpMAAAAAElFTkSuQmCC",
+  "imageHeight": 256,
+  "imageWidth": 256
+}

@@ -1,0 +1,119 @@
+{
+  "version": "5.2.1",
+  "flags": {},
+  "shapes": [
+    {
+      "label": "Tumor",
+      "points": [
+        [
+          125.1,
+          73.1
+        ],
+        [
+          125.0,
+          83.8
+        ],
+        [
+          126.0,
+          84.0
+        ],
+        [
+          126.3,
+          90.9
+        ],
+        [
+          128.0,
+          90.9
+        ],
+        [
+          128.2,
+          93.0
+        ],
+        [
+          124.4,
+          97.0
+        ],
+        [
+          125.1,
+          99.5
+        ],
+        [
+          125.1,
+          101.6
+        ],
+        [
+          129.2,
+          103.6
+        ],
+        [
+          129.4,
+          105.0
+        ],
+        [
+          132.6,
+          106.9
+        ],
+        [
+          136.6,
+          106.9
+        ],
+        [
+          145.4,
+          108.2
+        ],
+        [
+          151.7,
+          101.3
+        ],
+        [
+          153.8,
+          97.4
+        ],
+        [
+          153.8,
+          87.5
+        ],
+        [
+          152.8,
+          86.9
+        ],
+        [
+          152.5,
+          84.1
+        ],
+        [
+          151.5,
+          81.3
+        ],
+        [
+          149.4,
+          78.2
+        ],
+        [
+          140.7,
+          72.0
+        ],
+        [
+          135.9,
+          72.5
+        ],
+        [
+          132.4,
+          69.9
+        ],
+        [
+          129.9,
+          70.0
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "polygon",
+      "flags": {}
+    }
+  ],
+  "imagePath": "TCGA_DU_5874_19950510_24_mask.tif",
+  "imageData": "iVBORw0KGgoAAAANSUhEUgAAAQAAAAEACAAAAAB5Gfe6AAABHElEQVR4nO3YOQ4CQRAEwVn+/+fBwAEthwNVjRThIHBokh6OXQsAAAAAAAAAAAAAAAAAAAAAgP91tAdYuztFPcC+3dTmaAfYD/cK03QD7NMj8Xku6Sf8YJ+b/Na0AM+24qfmBQgvwcAA2SUYGSBZYGaAoKEBciswNECuwNQAMQJUn/3ND9/UGbAB7QHa5gYInYG5AUIEaA/QVg5wtC/JtQP0tQOkr4CdlAPUX385QP/1tzegrxpgwAIM3oDQF2Q1QP1HwBq8Aak4YwOktLfw1edgbK52gBcJcmPNPALBt6UfoPyHsH8E1ukURGcaEWCtdVdhzkgAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAADA910B76wXP4tv5fUAAAAASUVORK5CYII=",
+  "imageHeight": 256,
+  "imageWidth": 256
+}

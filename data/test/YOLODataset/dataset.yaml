@@ -1,0 +1,5 @@
+train: data/test\YOLODataset/images/train/
+val: data/test\YOLODataset/images/val/
+test: data/test\YOLODataset/images/test/
+nc: 1
+names: ["balloon"]

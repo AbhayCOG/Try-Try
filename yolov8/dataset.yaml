@@ -1,0 +1,4 @@
+train: C:\Datasets\yolov8\train
+val: C:\Datasets\yolov8\test
+nc: 1
+names: ["balloon"]
